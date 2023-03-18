@@ -1,0 +1,23 @@
+
+.filter{
+  width:700px;
+  height:100px;
+  background-color: dimgray;
+  background-color: darkgrey;
+}
+.b1{
+
+  background-color: gray;
+  border-radius: 4px;
+}
+.list{
+  margin-top: 20px;
+  width:700px;
+  height:100px;
+}
+.tr1{
+  background-color: gray;
+}
+.h1{
+  margin-left: 70px;
+}
